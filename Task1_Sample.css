@@ -1,0 +1,25 @@
+body{
+ background:url('https://source.unsplash.com/random/?/1600X900/nature')no-repeat center center/cover;
+}
+.row{
+    justify-content: center;
+    text-align: center;
+    width: 74vw;
+
+}
+.card{
+    margin: 13px;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #b0f391;
+   /* box-shadow: 6px 9px 20px -2px black;*/
+}
+.imgBox {
+    justify-content: center;
+    text-align: center;
+}
+.container h1
+{
+text-shadow: -3px -2px 2px rgb(255, 0, 170);
+}
